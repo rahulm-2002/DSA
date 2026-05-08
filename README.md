@@ -1,1 +1,2 @@
 # DSA
+This repository contains my continuous practice of Data Structures and Algorithms (DSA). I solve problems regularly and document each solution with clear explanations, approach, and optimized code. Writing detailed README files for every problem helps me strengthen problem‑solving skills, improve logical thinking, and build a strong foundation in algorithms while tracking my learning progress over time.
